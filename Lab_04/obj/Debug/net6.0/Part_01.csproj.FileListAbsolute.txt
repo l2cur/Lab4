@@ -1,0 +1,15 @@
+/Users/yankovezin/Downloads/Lab_04/Lab_04/bin/Debug/net6.0/Part_01
+/Users/yankovezin/Downloads/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.deps.json
+/Users/yankovezin/Downloads/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.runtimeconfig.json
+/Users/yankovezin/Downloads/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.dll
+/Users/yankovezin/Downloads/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.pdb
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.csproj.AssemblyReference.cache
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.AssemblyInfoInputs.cache
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.AssemblyInfo.cs
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.csproj.CoreCompileInputs.cache
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.dll
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/refint/Part_01.dll
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.pdb
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.genruntimeconfig.cache
+/Users/yankovezin/Downloads/Lab_04/Lab_04/obj/Debug/net6.0/ref/Part_01.dll
